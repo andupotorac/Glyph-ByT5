@@ -1,0 +1,67 @@
+{
+    "texts": [
+        "Get 75% Discount for your first order",
+        "Order Now",
+        "National Pancake Day"
+    ],
+    "styles": [
+        {
+            "color": "#545454",
+            "font-family": "MoreSugarRegular"
+        },
+        {
+            "color": "#ffffff",
+            "font-family": "Chewy-Regular"
+        },
+        {
+            "color": "#593535",
+            "font-family": "Chewy-Regular"
+        }
+    ],
+    "bbox": [
+        [
+            0.043161094224924014,
+            0.5963525835866261,
+            0.2936170212765957,
+            0.08389057750759879
+        ],
+        [
+            0.12279635258358662,
+            0.79209726443769,
+            0.26382978723404255,
+            0.05167173252279635
+        ],
+        [
+            0.044984802431610946,
+            0.09787234042553192,
+            0.4413373860182371,
+            0.4158054711246201
+        ]
+    ],
+    "_id": "EAFKNkLcNfU-1-0-web-2-N41D3IbRZcs",
+    "category": "Instagram Posts",
+    "tags": [
+        "brown",
+        "peach",
+        "grey",
+        "modern",
+        "minimalist",
+        "simple",
+        "colorful",
+        "illustration",
+        "Instagram post",
+        "instagram",
+        "post",
+        "national pancake day",
+        "international pancake day",
+        "happy pancake day",
+        "pancake day",
+        "pancake",
+        "sweet",
+        "cake",
+        "discount",
+        "sale"
+    ],
+    "bg_prompt": "Instagram Posts. The image features a stack of pancakes with syrup and strawberries on top. The pancakes are arranged in a visually appealing manner, with some pancakes placed on top of each other. The syrup is drizzled generously over the pancakes, and the strawberries are scattered around, adding a touch of color and freshness to the scene. The overall presentation of the pancakes is appetizing and inviting. Tags: brown, peach, grey, modern, minimalist, simple, colorful, illustration, Instagram post, instagram, post, national pancake day, international pancake day, happy pancake day, pancake day, pancake, sweet, cake, discount, sale",
+    "seed": 1
+}

@@ -1,0 +1,10 @@
+transformers==4.36.2
+diffusers==0.26.1
+mmengine
+accelerate
+torch==2.2.0
+torchvision==0.17.0
+deepspeed
+peft
+webcolors
+gradio

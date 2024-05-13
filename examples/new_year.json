@@ -1,0 +1,54 @@
+{
+    "texts": [
+        "Happy New Year",
+        "2024",
+        "All THE BEST",
+        "A fresh start to start a change for the better."
+    ],
+    "styles": [
+        {
+            "color": "#7b1f7b",
+            "font-family": "Caveat-Regular"
+        },
+        {
+            "color": "#1d1d67",
+            "font-family": "Gagalin-Regular"
+        },
+        {
+            "color": "#060606",
+            "font-family": "Quicksand-Light"
+        },
+        {
+            "color": "#060606",
+            "font-family": "Quicksand-Light"
+        }
+    ],
+    "bbox": [
+        [
+            0.2936170212765957,
+            0.2887537993920973,
+            0.40303951367781155,
+            0.07173252279635259
+        ],
+        [
+            0.24984802431610942,
+            0.3951367781155015,
+            0.46200607902735563,
+            0.17203647416413373
+        ],
+        [
+            0.3951367781155015,
+            0.1094224924012158,
+            0.2109422492401216,
+            0.02796352583586626
+        ],
+        [
+            0.20911854103343466,
+            0.6127659574468085,
+            0.5586626139817629,
+            0.08085106382978724
+        ]
+    ],
+    "bg_prompt": "Instagram Posts. The image features a white background with a variety of colorful flowers and decorations. There are several pink flowers scattered throughout the scene, with some positioned closer to the top and others near the bottom. A blue flower can also be seen in the middle of the image. The overall composition creates a visually appealing and vibrant display. Tags: grey, navy, purple, pink, teal, colorful, illustration, happy, celebration, post, party, year, new, event, celebrate, happy new year, new year, countdown, sparkle, firework",
+    "seed": 1
+}

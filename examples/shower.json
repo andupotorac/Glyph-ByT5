@@ -1,0 +1,76 @@
+{
+    "texts": [
+        "RSVP to +123-456-7890",
+        "Olivia Wilson",
+        "Baby Shower",
+        "Please Join Us For a",
+        "In Honoring",
+        "23 November, 2021 | 03:00 PM Fauget Hotels"
+    ],
+    "styles": [
+        {
+            "color": "#c27b33",
+            "font-family": "LilitaOne"
+        },
+        {
+            "color": "#83940f",
+            "font-family": "Sensei-Medium"
+        },
+        {
+            "color": "#889818",
+            "font-family": "Sensei-Medium"
+        },
+        {
+            "color": "#c27b33",
+            "font-family": "LilitaOne"
+        },
+        {
+            "color": "#c27b33",
+            "font-family": "LilitaOne"
+        },
+        {
+            "color": "#c27b33",
+            "font-family": "LilitaOne"
+        }
+    ],
+    "bbox": [
+        [
+            0.07112462006079028,
+            0.6462006079027356,
+            0.3373860182370821,
+            0.026747720364741642
+        ],
+        [
+            0.07051671732522796,
+            0.38662613981762917,
+            0.37264437689969604,
+            0.059574468085106386
+        ],
+        [
+            0.07234042553191489,
+            0.15623100303951368,
+            0.6547112462006079,
+            0.12401215805471125
+        ],
+        [
+            0.0662613981762918,
+            0.06747720364741641,
+            0.3981762917933131,
+            0.035866261398176294
+        ],
+        [
+            0.07051671732522796,
+            0.31550151975683893,
+            0.22006079027355624,
+            0.03951367781155015
+        ],
+        [
+            0.06990881458966565,
+            0.48328267477203646,
+            0.39878419452887537,
+            0.1094224924012158
+        ]
+    ],
+    "bg_prompt": "Cards and invitations. The image features a large gray elephant sitting in a field of flowers, holding a smaller elephant in its arms. The scene is quite serene and picturesque, with the two elephants being the main focus of the image. The field is filled with various flowers, creating a beautiful and vibrant backdrop for the elephants. Tags: Light green, orange, Illustration, watercolor, playful, Baby shower invitation, baby boy shower invitation, baby boy, welcoming baby boy, koala baby shower invitation, baby shower invitation for baby shower, baby boy invitation, background, playful baby shower card, baby shower, card, newborn, born, Baby Shirt Baby Shower Invitation",
+    "seed": 0
+}
