@@ -5,6 +5,12 @@
 
 This is the official implementation of GlyphByT5, introduced in [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622). This repo contains the inference code for our proposed Glyph-SDXL model.
 
+## News
+
+⛽ ⛽ ⛽ Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com) 
+
+**2024.05.12** Release the checkpoints and inference codes. We now support visual text rendering in both Chinese and English.
+
 ## :high_brightness: Highlights
 
 * We identify two crucial requirements of text encoders for achieving accurate visual text rendering: character awareness and alignment with glyphs. To this end, we propose a customized text encoder, Glyph-ByT5, by fine-tuning the character-aware ByT5 encoder using a meticulously curated paired glyph-text dataset.
