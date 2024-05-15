@@ -17,6 +17,35 @@ This is the official implementation of GlyphByT5, introduced in [Glyph-ByT5: A C
 
 * We present an effective method for integrating Glyph-ByT5 with SDXL, resulting in the creation of the Glyph-SDXL model for design image generation. This significantly enhances text rendering accuracy, improving it from less than 20% to nearly 90% on our design image benchmark. Noteworthy is Glyph-SDXL's newfound ability for text paragraph rendering, achieving high spelling accuracy for tens to hundreds of characters with automated multi-line layouts.
 
+* We are expanding our method to multilingual glyph generation!
+
+<table>
+  <tr>
+    <td><img src="assets/teaser/paragraph_1.png" alt="paragraph example 1" width="200"/></td>
+    <td><img src="assets/teaser/paragraph_2.png" alt="paragraph example 2" width="200"/></td>
+    <td><img src="assets/teaser/paragraph_3.png" alt="paragraph example 3" width="200"/></td>
+    <td><img src="assets/teaser/paragraph_4.png" alt="paragraph example 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/teaser/design_1.png" alt="design example 1" width="200"/></td>
+    <td><img src="assets/teaser/design_2.png" alt="design example 2" width="200"/></td>
+    <td><img src="assets/teaser/design_3.png" alt="design example 3" width="200"/></td>
+    <td><img src="assets/teaser/design_4.png" alt="design example 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/teaser/scene_1.png" alt="scene example 1" width="200"/></td>
+    <td><img src="assets/teaser/scene_2.png" alt="scene example 2" width="200"/></td>
+    <td><img src="assets/teaser/scene_3.png" alt="scene example 3" width="200"/></td>
+    <td><img src="assets/teaser/scene_4.png" alt="scene example 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/teaser/multilingual_1.png" alt="multilingual example 1" width="200"/></td>
+    <td><img src="assets/teaser/multilingual_2.png" alt="multilingual example 2" width="200"/></td>
+    <td><img src="assets/teaser/multilingual_3.png" alt="multilingual example 3" width="200"/></td>
+    <td><img src="assets/teaser/multilingual_4.png" alt="multilingual example 4" width="200"/></td>
+  </tr>
+</table>
+
 
 ## :wrench: Installation
 
