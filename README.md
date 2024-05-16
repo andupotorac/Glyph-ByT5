@@ -44,6 +44,18 @@ This is the official implementation of GlyphByT5, introduced in [Glyph-ByT5: A C
     <td><img src="assets/teaser/multilingual_3.png" alt="multilingual example 3" width="200"/></td>
     <td><img src="assets/teaser/multilingual_4.png" alt="multilingual example 4" width="200"/></td>
   </tr>
+  <tr>
+    <td><img src="assets/teaser/chinese_1.png" alt="chinese example 1" width="200"/></td>
+    <td><img src="assets/teaser/chinese_2.png" alt="chinese example 2" width="200"/></td>
+    <td><img src="assets/teaser/chinese_3.png" alt="chinese example 3" width="200"/></td>
+    <td><img src="assets/teaser/chinese_4.png" alt="chinese example 4" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/teaser/chinese_5.png" alt="chinese example 1" width="200"/></td>
+    <td><img src="assets/teaser/chinese_6.png" alt="chinese example 2" width="200"/></td>
+    <td><img src="assets/teaser/chinese_7.png" alt="chinese example 3" width="200"/></td>
+    <td><img src="assets/teaser/chinese_8.png" alt="chinese example 4" width="200"/></td>
+  </tr>
 </table>
 
 
